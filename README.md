@@ -3,7 +3,7 @@
 This work seeks to visualize the work done by Hirt et al. (2019).
 The Readme for their research is [here.](https://ddfe.curtin.edu.au/models/SRTM2gravity2018/SRTM2gravity_Readme.dat)
 
-This project initially started by perusing the 
+This project initially started by perusing the [GRACE Tellus Gravity Recovery & Climate Experiment](https://grace.jpl.nasa.gov/data/get-data/)
 
 I also looked at data from:
 * [Gravity Predictor Service](https://geodesy.noaa.gov/web_services/grav-d.shtml)
