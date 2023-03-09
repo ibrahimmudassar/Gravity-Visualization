@@ -23,6 +23,10 @@ Please type in the specific location you want and it will show a 3d Histogram an
 
 Currently it can only handle one binary file at one time, and will only work predictably in the North Eastern hemisphere of the Earth. This is a top priority todo list item
 
+The 2D visualization of all possible locations is here. 
+
+![all possible locations](images/available_files_histo.png)
+
 # TODO
 * Type in a latitude and longitude and it outputs automatically (if available) without searching for the link. In lieu of this, you may type the link by modifying the code. [All possible links are here.](/filenames.txt)
 * The ability to input a square and it will concatenate the files together and output the concatenated data
