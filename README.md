@@ -28,8 +28,8 @@ The 2D visualization of all possible locations is here.
 
 # TODO
 * Type in a latitude and longitude and it outputs automatically (if available) without searching for the link. In lieu of this, you may type the link by modifying the code. [All possible links are here.](/filenames.txt)
-* The ability to input a square and it will concatenate the files together and output the concatenated data
-* Create Interactive Globe Model of this to try to imitate the [gravity potato](https://user-images.githubusercontent.com/22484328/223882296-e0e7e285-f51d-4bbb-9c21-b056ce6c29e6.png)
+* The ability to input a square and it will concatenate the multiple location data files together and output the concatenated data
+* Create Interactive Globe Model of this to try to imitate the [gravity potato](https://user-images.githubusercontent.com/22484328/223882296-e0e7e285-f51d-4bbb-9c21-b056ce6c29e6.png) Google Earth style
 
 
 # Thanks
