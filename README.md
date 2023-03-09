@@ -5,6 +5,12 @@ The Readme for their research is [here.](https://ddfe.curtin.edu.au/models/SRTM2
 
 This project initially started by perusing the 
 
+I also looked at data from:
+* [Gravity Predictor Service](https://geodesy.noaa.gov/web_services/grav-d.shtml)
+* [CSR Low-Degree Gravity Harmonics GRACE Satellite](https://filedrop.csr.utexas.edu/pub/slr/degree_5/CSR_Monthly_5x5_Gravity_Harmonics.txt)
+* [National Centers for Environmental Information (NCEI)](https://www.ngdc.noaa.gov/mgg/gravity/)
+* [GRAVCD-dmanet93 Defense Mapping Agency Aerospace Center](https://www.ngdc.noaa.gov/mgg/gravity/1999/data/regional/dmanet93/dmanet93.txt)
+
 # Output
 ## After
 ![3D Model of Gravity](/images/3dGravity.png)
