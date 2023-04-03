@@ -20,8 +20,6 @@ I also looked at data from:
 # How To Use
 Please type in the specific location you want and it will show a 3d Histogram and 2d Histogram with your results.
 
-Currently it can only handle one binary file at one time, and will only work predictably in the North Eastern hemisphere of the Earth. This is a top priority todo list item
-
 The 2D visualization of all possible locations is here. 
 
 ![all possible locations](images/available_files_histo.png)
