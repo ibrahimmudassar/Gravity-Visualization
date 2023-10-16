@@ -12,7 +12,7 @@ I also looked at data from:
 
 # Output
 ## After
-![Earth Mercator of Gravity](https://i.ibb.co/5vXh9Ky/outputlinearized.png)
+![Earth Mercator of Gravity](/images/earthGravity.png)
 ![3D Model of Gravity](/images/3dGravity.png)
 ![2D Model of Gravity](/images/2dGravity.png)
 ## Before
